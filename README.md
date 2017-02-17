@@ -1,3 +1,5 @@
+<img src="https://cloud.githubusercontent.com/assets/6520345/23081189/8962462e-f508-11e6-88f1-4a3fa2ddca99.png" alt="cog" style="width: 50px;"/>
+
 # Lightning Talks
 
 Create a 5 minute presentation on a topic that is useful to your fellow developers. Talking about technology is one of the most difficult skills for new developers to get comfortable with, and it's one employers value highly.
