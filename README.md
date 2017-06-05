@@ -12,10 +12,8 @@ In your presentation, answer the following questions:
 
 Your presentation should also include a small demo of working code.
 
-Lightning talks will be on Monday afternoon next week.
-
 ## Topics:
-[Sign up for your topic here](https://docs.google.com/spreadsheets/d/1L-gFsFvXYKqLjJe28th0F98fgQJ3rZ3XwlXTlr7jquc/edit)!Here are some suggestions; you are welcome to add your own:
+[Sign up for your topic here](https://docs.google.com/spreadsheets/d/1gt_i5t22O_vnxHJTvejG_kqq434aaSTg8n5YUwq9kjA/edit#gid=0)!Here are some suggestions; you are welcome to pick your own outside of those listed:
 
 **DATA STORAGE**
 
@@ -38,7 +36,6 @@ Lightning talks will be on Monday afternoon next week.
 - [ ] Jade
 - [ ] Handlebars / Mustache
 - [ ] EJS
-- [ ] ES6 Template Literals
 
 **Ruby and/or Rails**
 
@@ -81,7 +78,6 @@ Lightning talks will be on Monday afternoon next week.
 **Front End Frameworks**
 
 - [ ] Vue
-- [ ] React
 - [ ] Angular 2
 - [ ] Ionic
 - [ ] Meteor
