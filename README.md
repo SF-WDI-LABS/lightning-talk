@@ -10,10 +10,12 @@ In your presentation, answer the following questions:
 - How do you use it? (Is there a "cheatsheet" you found or made that others can reference?)
 - What did you build?
 
-Your presentation should also include a small demo of working code.
+Your presentation should also include a small demo of working code. 
+
+Please [create a brief github gist](https://help.github.com/articles/creating-gists/) (or "cheat sheet") for your fellow developers, outlining your findings, and linking to any helpful tutorials, resources, hints, and tips you discover in your research.
 
 ## Topics:
-[Sign up for your topic here](https://docs.google.com/spreadsheets/d/1gt_i5t22O_vnxHJTvejG_kqq434aaSTg8n5YUwq9kjA/edit#gid=0)!Here are some suggestions; you are welcome to pick your own outside of those listed:
+[Sign up for your topic here](https://docs.google.com/spreadsheets/d/1QLDOsQ-hk_-O-dMoPOb0ZSkaN-jYIvTqQ6OV_85cba0/edit#gid=0)!Here are some suggestions; you are welcome to pick your own outside of those listed:
 
 **DATA STORAGE**
 
